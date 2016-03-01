@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test.GitHub.Lib
 {
-    public class Class1
+    public class TestClass
     {
     }
 }
