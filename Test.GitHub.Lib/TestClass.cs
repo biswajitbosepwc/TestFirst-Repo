@@ -8,5 +8,6 @@ namespace Test.GitHub.Lib
 {
     public class TestClass
     {
+        string str = "Hello World";
     }
 }
