@@ -9,5 +9,6 @@ namespace Test.GitHub.Lib
     public class TestClass
     {
         string str = "Hello World";
+        string str2 = "Second Line";
     }
 }
